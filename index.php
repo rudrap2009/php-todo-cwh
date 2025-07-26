@@ -42,9 +42,8 @@ $remaining = $total - $completed;
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Beautiful PHP Todo App</title>
+<title>Todo App</title>
 <link rel="stylesheet" href="style.css">
-<link rel="javascript" href="script.js">
 </head>
 <body>
   <header><h1>My Todo List</h1></header>
